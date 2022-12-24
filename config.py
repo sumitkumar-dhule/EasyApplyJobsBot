@@ -13,7 +13,7 @@ headless = False
 # get Firefox profile path by typing following url: about:profiles
 firefoxProfileRootDir = r"/home/ongun/snap/firefox/common/.mozilla/firefox/pz0eh58h.Linkedin_bot"
 # get Chrome profile path by typing following url: chrome://version/
-chromeProfilePath = r"C:\Users\sumit\AppData\Local\Google\Chrome\User Data\ChromeDefaultData"
+chromeProfilePath = r"/home/electrodiligent/.config/google-chrome/Default`"
 
 # These settings are for running Linkedin job apply bot
 LinkedinBotProPasswrod = ""
@@ -21,7 +21,7 @@ LinkedinBotProPasswrod = ""
 # continent locations:["Europe", "Asia", "Australia", "NorthAmerica", "SouthAmerica", "Africa", "Australia"]
 location = ["Europe", "Asia", "Australia", "NorthAmerica"]
 # keywords related with your job search
-keywords = ["Android"]
+keywords = ["Android", "Android developer", "Android Engineer", "Mobile Developer"]
 #job experience Level - ex:  ["Internship", "Entry level" , "Associate" , "Mid-Senior level" , "Director" , "Executive"]
 experienceLevels = [ "Entry level" , "Associate" , "Mid-Senior level" ]
 #job posted date - ex: ["Any Time", "Past Month" , "Past Week" , "Past 24 hours"] - select only one
