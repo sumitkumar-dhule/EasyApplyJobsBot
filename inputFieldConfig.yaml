@@ -1,14 +1,14 @@
 personalInfo:
-  First Name: FirstName
-  Last Name: LastName
-  Phone Country Code: Canada (+1) # See linkedin for your country code, must be exact
-  Mobile Phone Number: 1234567890
-  Street address: 123 Fake Street
-  City: Śląskie, Poland # Include the state/province as well!
-  State: YourState
-  Zip: YourZip/Postal
-  Linkedin: https://www.linkedin.com/in/my-linkedin-profile
-  Website: https://www.my-website.com # github/website is interchangable here
+  First Name: Sumitkumar
+  Last Name: Dhule
+  Phone Country Code: India (+91) # See linkedin for your country code, must be exact
+  Mobile Phone Number: 9420840767
+  Street address: Wakad
+  City: Pune, India # Include the state/province as well!
+  State: Maharashtra
+  Zip: 411057
+  Linkedin: hhttps://www.linkedin.com/in/sumitkumar-dhule/
+  Website: https://github.com/sumitkumar-dhule # github/website is interchangable here
 
 # How many years of "TECHNOLOGY" experience do you currently have? (whole numbers only)
 experience do you currently have:
@@ -22,20 +22,20 @@ experience do you currently have:
   Customer Service: 0
   Distribution Design: 0
   Education: 0
-  Engineering: 3
+  Engineering: 6
   Finance: 0
-  General Business: 2
+  General Business: 6
   Health Care Provider: 0
   Human Resources: 0
   Information Technology: 0
   Legal: 0
-  Management: 1
+  Management: 4
   Manufacturing: 0
   Marketing: 0
   Public Relations: 0
   Purchasing: 0
-  Product Management: 2
-  Project Management: 3
+  Product Management: 4
+  Project Management: 4
   Production: 0
   Quality Assurance: 0
   Research: 0
@@ -46,69 +46,76 @@ experience do you currently have:
   Training: 0
   Writing/Editing: 0
   # default to put for any skill that you did not list
-  default: 0
+  default: 6
   # end normal ones, put your custom ones here
   C++: 0
-  Python: 3
-  Javascript: 3
+  Python: 1
+  Javascript: 0
+  Kotlin: 4
+  Java: 4
+  Android: 6
+
   # Node: 3
   # -- end of experience do you currently have, bot added ones below
 
 # Questions having these technology keywords inside (whole numbers only) - case insensitive
-python: 3
+python: 1
 Spring Boot: 0
-java: 3
+java: 4
 PHP: 0
 Laravel: 0
-SASS: 3
-React: 3
-React Native: 2
+SASS: 0
+React: 0
+React Native: 1
 Django: 0
 SAP: 0
 ipt: 0
-MySQL: 0
+MySQL: 2
 Shopify: 0
-Typescript: 3
-JavaScript: 3
+Typescript: 0
+JavaScript: 0
 Angular: 0
-Redux.js: 2
+Redux.js: 0
 Angular Command Line Interface (CLI): 0
-selenium: 3
+selenium: 0
 C++: 0
 C#: 0
 C (Programming Language): 0
-Software Development: 3
-Linux: 2
-Cross-functional team: 0
+Software Development: 6
+Linux: 4
+Cross-functional team: 6
 Social media platforms: 0
 Microsoft Azure: 0
-AWS: 0
+AWS: 1
 .NET: 0
 # add custom one here
+Kotlin: 4
+Java: 4
+Android: 6
 
-universityGpa: 4.0
+universityGpa: 8.2
 
 # What is your level of proficiency in a: polski? Required
 level of proficiency:
-  english: Native or bilingual # None, Conversational, Professional, Native or bilingual
-  polski: Conversational # None, Conversational, Professional, Native or bilingual
+  english: Professional # None, Conversational, Professional, Native or bilingual
+  polski: None # None, Conversational, Professional, Native or bilingual
 
 # Other queations, you can add custom ones below and bot will also add the unrecognized ones at the end
 # Can you provide a ballpark salary range you'd be looking for? Required / # Desired salary Required / Salary expectations for
-Salary: 15000 usd - 18000 usd net monthly.
+Salary: As per industry standards
 # If you selected Word of mouth, Referral or Other from the question above, please specify in the box below.
 Word of mouth, Referral or Other: None
 # College or University
-College or University: ABC University
+College or University: Pune University, India
 # Have you ever applied at ... before? Required
 Have you ever applied: No
 #  Please provide 3 references with their name, phone number, and email address. Required
-References: A, 045,abc@gmail.com | B,234,abc@gmail.com | C,2134,abc@gmail.com
+References: None, 912345677,aboc@gmail.com
 #  How many hours are you available every week? Required
 Hours are you available every week: 40
 #  What is your desired hourly pay rate (in USD)? Required
 Hourly pay rate: 30
 #  Notice period in weeks Required
-Notice period: 2 weeks
+Notice period: 8 weeks
 #  Please evaluate on a scale from 1 to 10 you ability to manage technical issues on different social media platforms? Required
 Manage Technical Issues: 8
